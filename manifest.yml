@@ -1,0 +1,4 @@
+applications:
+ - name: SummerCamp
+   random-route: true
+   memory: 128M
